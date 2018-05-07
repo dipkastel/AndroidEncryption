@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Encript test</string>
+    <string-array name="EncKeys">
+        <item>randomtext1</item>
+        <item>randomtext2</item>
+        <item>randomtext3</item>
+        <item>randomtext4</item>
+        <item>randomtext5</item>
+    </string-array>
+</resources>
+
